@@ -1,0 +1,521 @@
+sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sddffsfdfadnfa
+iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljpoiassehf'sfsdp;d
+uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnosfsafddpiurwhbg'psadfglkaheoipf
+oifasdhfnpsadiniosdah'pgnajikldhgfilksna;dfsgfidsongl'/fsa/h
+fiasduhfbn'osdaniodshngf;dsjfkln 'sdfjpasf
+oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkomssfd
+sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sddffn
+iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljpoisehf'p;dafasdf
+uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnopiurwhbgsdfasds'psadfglkaheoipf
+oifasdhfnpsadiniosdah'pgnajikldhgfilksna;zxcgefrweawvgfidsongl'/fsa/h
+fiasduhfbn'osdaniodshngf;dsjfkln 'sdfjpcf
+oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkomswfsdr
+sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sewrddfn
+iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljrfwpoisehf'p;d
+uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnoperiurwhbg'psadfglkaheoipf
+oifasdhfnpsadiniosdah'pgnajikldhgfilksna;gfwridsongl'/fsa/h
+fiasduhfbn'osdaniodshngf;dsjfkln 'sdfjpfewad
+oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkomseawer
+sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sddfnawsfdawe
+iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljpoisehf'rqwp;d
+uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnopiurwhfaqwbg'psadfglkaheoipf
+oifasdhfnpsadiniosdah'pgnajikldhgfilksna;gfidsswedsongl'/fsa/h
+fiasduhfbn'osdaniodshngf;dsjfkln 'sdfjpaweef
+oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkomsfewr
+sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sddfnf3asd
+iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljpoisehf'p;dweased
+uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnopiurwhbg'psadfglkaheoipfewf
+oifasdhfnpsadiniosdah'pgnajikldhgfilksna;gfidsongl'/fsa/haswdedgfesa
+qwertyuiazxcvbnmasdfghjkwertyuixcvbnmqsdtyuill;fduatrgv .ktr7i5sxrehz
+wezxrctyvbuniompwEzyrxtcyvbuni43sad5r6ftgyhuijetwZeyxcjvkybhl jklsexurtcdyvublinedrctvybu
+zerydxtfjcygvuhbijny5utyvuhijxrctyvublinjorxtcvyubijnkzxjtrcytkvuybrxercvghb
+xrctjfvygkubhjnk;l 54r56itfouygiu;hisexrctvoyubui;noyrxcfgv hjsdrtfyvulbieurdtfyghj
+exrtcfjygvhbjnklmrtxctvybjn;ksrcjtvhbjnkmrextcygvhbjnerxfcghvjbesrdtykvubjnkml
+xcfgvhbjnklmxrrtcyvubino5e4rdtfyguhxfcjgvhjb sedrcfgvhbdtfyguli;n
+xrtfcgvhbjnezrxrtjcygkvhbjxfcgvhbjsrdtcvhbjnksdrctkvhbljnkxcgvhbjknlm;
+xerfcgvhbjnkmxtfcgvhbjnktxr cgvhbjnkmxtykvulbj;nkmlesdrtfyguhjksedrvhbjnkml;,
+vubhjnkmlxcfgvhbjnkmldrtfynm,.sercvhbjnkmlesrcvhbjnkmxucygvlhbjnkl
+cygvhbjknlm;xcgvhbjnklm;xcgvhlbjknewrvl/kdcnsp'vghuxocb vsidautfiuawdbsf
+tyagcfvxi;sagbhckol;sxgasxydffvaicl.iagdiuasbf ;asyhduib df
+iuyabgvduogfiuydsvbc lzx;hciufsdgbdf;sajfisghdof;c
+syuzgcb;isdfhplk;sndlkchsdoiayhfklsdn cls;yfkldsnfcl'sadahyfoi
+iuasfgcopsda'hfncklxcnml'ausfiobnsdjkcbjsk;sgfksdlnf
+jsdhfb'osdalkjfniokashdfusgbfas;ljopf'dsoflnscdgfiovc
+asiudf ol'/dagvhouisdfk'am';sdmckll;ahsdhfopidscnbksdhyf
+auivfosa'/fhoidsjmcl;s'zxajhcsdkfhnuiisdghfpewjfpsd,lvhoisaldfsiudlg
+Last login: Thu Jul 18 17:59:30 on ttys000
+Lins-MacBook-Pro:~ linyang$ ssh l76yang@ubuntu1804-004.student.cs.uwaterloo.ca
+Password: 
+Last login: Wed Jul 17 14:21:14 2019 from 2620:101:f000:780:fef6:47df:1634:c1ba
+setterm: unrecognized option '-x'
+Try 'setterm --help' for more information.
+@ubuntu1804-004% cd cs456/a2/cs456A2
+-bash: cd: cs456/a2/cs456A2: No such file or directory
+@ubuntu1804-004% cd cs456/a2/cs456-A2/
+@ubuntu1804-004% vi sender.java 
+@ubuntu1804-004% make clean
+rm -r *.class
+@ubuntu1804-004% make
+javac *.java
+Note: sender.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "in.txt" 
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi ack.log 
+@ubuntu1804-004% vi ack.log 
+@ubuntu1804-004% vi in.txt 
+@ubuntu1804-004% vi inbig.txt
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi inbig.txt 
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% java sendvi seqnum.log 
+@ubuntu1804-004% java sendvi inbig.txt 
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi sender.java 
+@ubuntu1804-004% make clean
+rm -r *.class
+@ubuntu1804-004% make
+javac *.java
+Note: sender.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi ack.log 
+@ubuntu1804-004% git s
+git: 's' is not a git command. See 'git --help'.
+
+The most similar commands are
+	show
+	status
+	svn
+@ubuntu1804-004% git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   in.txt
+	modified:   sender.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	DEADJOE
+	ack.log
+	arrival.log
+	inbig.txt
+	out.txt
+	outbig.txt
+	packet.class
+	receiver.class
+	sender.class
+	seqnum.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+@ubuntu1804-004% git diff
+diff --git a/in.txt b/in.txt
+index 85a64de..76e1d24 100644
+--- a/in.txt
++++ b/in.txt
+@@ -4,4 +4,33 @@ uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnopiurwhbg'psadfglkaheoipf
+ oifasdhfnpsadiniosdah'pgnajikldhgfilksna;gfidsongl'/fsa/h
+ fiasduhfbn'osdaniodshngf;dsjfkln 'sdfjp
+ oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkoms
++o;sdfghl;ksabfv;oiasgfl;sadnfo;idgs;lf
++sio;dfboi'lshnf'lodsha;oifgo;siadhihabs;flhnsiodahfgo
++noiasdhfoisdhafoisdhlkfhslkdhfiosahfldsknflkhsiofhsdd;lhfjioosdhd
++dsiohfo;sdihnjflksdhfiohsdo;af;lasdjhfiosdghfoihsddfhdskl
++fiosdahoi;swehnfjiou8wgheerflkdsn;fhisoadhfla;'wsfoisdkhfiowehf
++nfdoisagho;esjfp;jwioerhoiwenfosdl;ihnlks;a'hjfioshf'psdlfjmlskd;hfosdi
++nsodifhwop'ehflkdsjnfkl;sjdoiphfpso[afjmlsdjfopwh
++ifspodhp'weojfl;d'sjkmf.;dskfopwhjeopfrjdl
++mopfsd'jpo'weafopdsjl;fjk'ewjropsuefghjl;'sdfjpoaw uef nsdfohyws\\
++uisbgf;oishdflidskohfsl;kjnfdlk'sayhreihfl;sdkfhjiosghfkelhr'w
++soidfhso;ihfkldshfnkls;hfrioewhrtuwgrjsbd/aslohdfiuweorghkdhfs
++nsjkdfhio;wehrk,dsl;nfiosdhrijsndlknfiweoghrkdlshfiodhr4eklrjhlsd
++nkjsdl;giowsehrldknfkdsl'faioehrkndsl;fhiodshfrleikrns;
++nkjskigfioewahlken,rnslkhrienlr,s.enbriogqa;olkwenfnslkihgriowenrm,sed;hrio;wrbf
++bnowi;rgfhi;wenrfklsdhrfio'waelksdhfol 'weklrhiopd''' viksh viowhtgfs;oad bioh;werfdkjs;a gf;aosdhbjfky'a;owfhkjsdfoilrbf
++ois;fhyoiswehflkdjfh'weioyhrfkdls;
++fhiios;lhfos;dlahieuhrlshnfkdh
++hso;fiheoi;hrisyharl;khbsdkflyhsio9ehyrfh
++hsoiof;hgeioryhskdhbnr;ayerhdkl;fhsiehrfh
++snkl;hefrioehrkdslnf;osiyherfhndl;s/hyrikesl
++ndkl;sirghmdsl,fnsli;yhklesdnf;hieohyflskeruihdkf'hseo
++nfo;ilsehyrlkndmk;faieyhrkls;fhiehyrklsd;fhiehrfldsk;faieuy
++kl;siahfo'sdlnflekhyr.,dmf;ols'aerihdsbnf;suhyrekhf;l'shyeirfls\
++nois;drleknfls;dhfioehnlf;seihfuidsbhnfld;hfjioehfrklds;hruigfos;
++hooisl;ehoelsihfoi;edyhfwegosdhfodisfhaeiohrpfsd'hrfueg;bfks;dfhiueoar
++hsoi;rgioe;ahyowieyhp'wr'pjfv dbgfvlkyswpofihjhgf['asdjgopshjdfopashta'ew
++sjnpoifhsae'hfposehrpw;enfdlsk,'hgfipa'erwio'erhp;swlfns;d'athjoerhbnlds'
++no;dslibfnip'rowelkw'niobgweakmrld;bshgtifo'wearpljnweoklhfiwsl;'efjnighe
++piisoat'weahkrfl'shfioasgt'pewola;rfutrhrsidknwe9u0oifjsdlwetr9upoj
+ 
+diff --git a/sender.java b/sender.java
+index 8db1c3d..df2b899 100644
+--- a/sender.java
++++ b/sender.java
+@@ -90,7 +90,7 @@ public class sender {
+                // send file and receive acks
+                while(curr_ACK != packets.size()-1) {
+                        // send packets
+-                       while(curr_send_seq < packets.size() && curr_window_used != WINDOW_SIZE) {
++                       while(curr_send_seq < packets.size() && curr_window_used < WINDOW_SIZE) {
+                                packet p = (packet) packets.get(curr_send_seq);
+                                curr_send_seq++;
+                                // print index of packet
+@ubuntu1804-004% 
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+^C@ubuntu1804-004% java sevi sender.java 
+@ubuntu1804-004% git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   in.txt
+	modified:   sender.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	DEADJOE
+	ack.log
+	arrival.log
+	inbig.txt
+	out.txt
+	outbig.txt
+	packet.class
+	receiver.class
+	sender.class
+	seqnum.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+@ubuntu1804-004% cat DEADJOE
+
+*** These modified files were found in JOE when it aborted on Sat Jul  6 21:47:46 2019
+*** JOE was aborted because the terminal closed
+
+*** File '* Build Log *'
+
+JOE: cd /u7/l76yang/cs456/a2/cs456-A2
+
+/bin/sh: 3: q: not found
+
+JOE: FAIL (exit status = 127)
+
+exit
+*** File '(Unnamed)'
+q
+
+*** File '(Unnamed)'
+/u7/l76yang/cs350-os161/os161-1.99/.git/COMMIT_EDITMSG
+/u7/l76yang/cs350-os161/os161-1.99/.git/COMMIT_EDITMSG
+/u7/l76yang/cs456/a2/cs456-A2/.git/COMMIT_EDITMSG
+* Build Log *
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+@ubuntu1804-004% :q
+WARNING:root:could not open file '/etc/apt/sources.list.d/ksplice.list'
+
+:q: command not found
+@ubuntu1804-004% git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   in.txt
+	modified:   sender.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	DEADJOE
+	ack.log
+	arrival.log
+	inbig.txt
+	out.txt
+	outbig.txt
+	packet.class
+	receiver.class
+	sender.class
+	seqnum.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+@ubuntu1804-004% rm DEADJOE
+@ubuntu1804-004% git add .
+@ubuntu1804-004% git commit -m "debug no delay and loss"
+[master db4bbe1] debug no delay and loss
+ 11 files changed, 2415 insertions(+), 1 deletion(-)
+ create mode 100644 ack.log
+ create mode 100644 arrival.log
+ create mode 100644 inbig.txt
+ create mode 100644 out.txt
+ create mode 100644 outbig.txt
+ create mode 100644 packet.class
+ create mode 100644 receiver.class
+ create mode 100644 sender.class
+ create mode 100644 seqnum.log
+@ubuntu1804-004% git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 80 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (10/10), 8.43 KiB | 1.69 MiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0)
+To git.uwaterloo.ca:l76yang/cs456-A2.git
+   4d64cad..db4bbe1  master -> master
+@ubuntu1804-004% git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+@ubuntu1804-004% vi sender.java 
+@ubuntu1804-004% make clean
+rm -r *.class
+@ubuntu1804-004% make
+javac *.java
+Note: sender.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+@ubuntu1804-004% git commijava sender ubuntu1604-002 54137 38287 "inbig.txt"
+^C@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% git diff
+diff --git a/sender.class b/sender.class
+index 1b0c233..e412b34 100644
+Binary files a/sender.class and b/sender.class differ
+diff --git a/sender.java b/sender.java
+index df2b899..c0191a0 100644
+--- a/sender.java
++++ b/sender.java
+@@ -88,7 +88,7 @@ public class sender {
+                }
+diff --git a/sender.class b/sender.class
+index 1b0c233..e412b34 100644
+Binary files a/sender.class and b/sender.class differ
+diff --git a/sender.java b/sender.java
+index df2b899..c0191a0 100644
+--- a/sender.java
++++ b/sender.java
+@@ -88,7 +88,7 @@ public class sender {
+                }
+ 
+                // send file and receive acks
+-               while(curr_ACK != packets.size()-1) {
++               while(curr_ACK < packets.size()-1) {
+                        // send packets
+                        while(curr_send_seq < packets.size() && curr_window_used < WINDOW_SIZE) {
+                                packet p = (packet) packets.get(curr_send_seq);
+diff --git a/seqnum.log b/seqnum.log
+index f000517..f7a1b10 100644
+--- a/seqnum.log
++++ b/seqnum.log
+@@ -952,1353 +952,3 @@
+ 3
+ 4
+ 5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+-3
+-4
+-5
+-0
+-1
+-2
+@ubuntu1804-004% 
+@ubuntu1804-004% git checkout -- se
+sender.class  sender.java   seqnum.log    
+@ubuntu1804-004% git checkout -- sender.java
+@ubuntu1804-004% make clean
+rm -r *.class
+@ubuntu1804-004% make
+javac *.java
+Note: sender.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+^C@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi ack.log
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi ack.log 
+@ubuntu1804-004% java sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi ack.log 
+@ubuntu1804-004% vi inbig.txt 
+@ubuntu1804-004% vi outbig.txt 
+@ubuntu1804-004% java sendjava sender ubuntu1604-002 54137 38287 "inbig.txt"
+@ubuntu1804-004% vi outbig.txt 
+@ubuntu1804-004% vi seqnum.log 
+@ubuntu1804-004% vi arrival.log 
+@ubuntu1804-004% vi ack.log 
+@ubuntu1804-004% git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ack.log
+	modified:   arrival.log
+	modified:   outbig.txt
+	modified:   seqnum.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+@ubuntu1804-004% git add .
+@ubuntu1804-004% git commit -m "test with delay and loss"
+[master 37a5f0b] test with delay and loss
+ 4 files changed, 65 insertions(+), 2304 deletions(-)
+ rewrite seqnum.log (99%)
+@ubuntu1804-004% git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 80 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 354 bytes | 177.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+To git.uwaterloo.ca:l76yang/cs456-A2.git
+   db4bbe1..37a5f0b  master -> master
+@ubuntu1804-004% vi inbig.txt 
+
+ 18 oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkomseawer
+ 19 sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sddfnawsfdawe
+ 20 iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljpoisehf'rqwp;d
+ 21 uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnopiurwhfaqwbg'psadfglkaheoipf
+ 22 oifasdhfnpsadiniosdah'pgnajikldhgfilksna;gfidsswedsongl'/fsa/h
+ 23 fiasduhfbn'osdaniodshngf;dsjfkln 'sdfjpaweef
+ 24 oisd;g'dsalfmksldjfo;ls'nfiosdhnfl'pkomsfewr
+ 25 sfgidsbf;ashf;oisanfkl;sdghf;lksnlfhnsdl'afhl'sddfnf3asd
+ 26 iusdagfbo;scbnf;lsdkhflisdanfl'shdfipnsad';ljpoisehf'p;dweased
+ 27 uifabs'o;bnoiw'shfroipsdn'fvhsaoidn;sd'ohnopiurwhbg'psadfglkaheoipfewf
+ 28 oifasdhfnpsadiniosdah'pgnajikldhgfilksna;gfidsongl'/fsa/haswdedgfesa
+ 29 qwertyuiazxcvbnmasdfghjkwertyuixcvbnmqsdtyuill;fduatrgv .ktr7i5sxrehz
+ 30 wezxrctyvbuniompwEzyrxtcyvbuni43sad5r6ftgyhuijetwZeyxcjvkybhl jklsexurtcdyvublinedrctvybu
+ 31 zerydxtfjcygvuhbijny5utyvuhijxrctyvublinjorxtcvyubijnkzxjtrcytkvuybrxercvghb
+ 32 xrctjfvygkubhjnk;l 54r56itfouygiu;hisexrctvoyubui;noyrxcfgv hjsdrtfyvulbieurdtfyghj
+ 33 exrtcfjygvhbjnklmrtxctvybjn;ksrcjtvhbjnkmrextcygvhbjnerxfcghvjbesrdtykvubjnkml
+ 34 xcfgvhbjnklmxrrtcyvubino5e4rdtfyguhxfcjgvhjb sedrcfgvhbdtfyguli;n
+ 35 xrtfcgvhbjnezrxrtjcygkvhbjxfcgvhbjsrdtcvhbjnksdrctkvhbljnkxcgvhbjknlm;
+ 36 xerfcgvhbjnkmxtfcgvhbjnktxr cgvhbjnkmxtykvulbj;nkmlesdrtfyguhjksedrvhbjnkml;,
+ 37 vubhjnkmlxcfgvhbjnkmldrtfynm,.sercvhbjnkmlesrcvhbjnkmxucygvlhbjnkl
+ 38 cygvhbjknlm;xcgvhbjnklm;xcgvhlbjknewrvl/kdcnsp'vghuxocb vsidautfiuawdbsf
+ 39 tyagcfvxi;sagbhckol;sxgasxydffvaicl.iagdiuasbf ;asyhduib df
+ 40 iuyabgvduogfiuydsvbc lzx;hciufsdgbdf;sajfisghdof;c
+ 41 syuzgcb;isdfhplk;sndlkchsdoiayhfklsdn cls;yfkldsnfcl'sadahyfoi
+ 42 iuasfgcopsda'hfncklxcnml'ausfiobnsdjkcbjsk;sgfksdlnf
+ 43 jsdhfb'osdalkjfniokashdfusgbfas;ljopf'dsoflnscdgfiovc
+ 44 asiudf ol'/dagvhouisdfk'am';sdmckll;ahsdhfopidscnbksdhyf
+ 45 auivfosa'/fhoidsjmcl;s'zxajhcsdkfhnuiisdghfpewjfpsd,lvhoisaldfsiudlg
+
